@@ -41,3 +41,4 @@ if (nota >= 60) {
 console.log("Informação");
 console.warn("Atenção");
 console.error("Erro");
+
