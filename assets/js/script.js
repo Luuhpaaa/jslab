@@ -37,3 +37,7 @@ const nota = 75;
 if (nota >= 60) {
     console.log("Aprovado");
 }
+
+console.log("Informação");
+console.warn("Atenção");
+console.error("Erro");
